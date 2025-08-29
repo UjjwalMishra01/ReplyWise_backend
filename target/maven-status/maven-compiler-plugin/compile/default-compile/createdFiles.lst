@@ -1,0 +1,5 @@
+com\email\amw\Controller\EmailGeneratorController.class
+com\email\amw\Model\EmailRequest.class
+com\email\amw\AImailWriterApplication.class
+com\email\amw\Model\emailGeneratorService.class
+com\email\amw\WebClientConfiguration.class
