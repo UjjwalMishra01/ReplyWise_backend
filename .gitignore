@@ -1,8 +1,21 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Ignore build outputs
+/target
+*.jar
+*.war
+*.log
+
+# Ignore IDE configs
+/.idea
+/.vscode
+*.iml
+
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
